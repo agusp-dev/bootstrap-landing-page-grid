@@ -10,20 +10,19 @@ body {
   padding: 20px 12px;
 }
 
-.header {
+header {
   background: green;
   color: white;
 }
 
-.column-main {
+main {
   background: white;
 }
 
-.aside {
+aside {
   background: #c2c2c2;
   color: blue;
   padding: 48px 8px;
-  height: 1%;
 }
 
 .product {
@@ -32,7 +31,7 @@ body {
   margin-bottom: 4px;
 }
 
-.footer {
+footer {
   background: black;
   color: white;
 }
