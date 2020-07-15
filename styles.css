@@ -1,0 +1,37 @@
+body {
+  background: #f2f2f2;
+}
+
+.row {
+  margin-bottom: 12px;
+}
+
+.column {
+  padding: 20px 12px;
+}
+
+.header {
+  background: green;
+  color: white;
+}
+
+.column-main {
+  background: white;
+}
+
+.aside {
+  background: #c2c2c2;
+  color: blue;
+  padding: 48px 8px;
+  height: 1%;
+}
+
+.product {
+  background: blue;
+  color: white;
+}
+
+.footer {
+  background: black;
+  color: white;
+}
